@@ -160,6 +160,7 @@ AI-powered coding without sending your code to the cloud.
 - [Aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal. Edit files, run tests, commit. Works with local models via Ollama/LiteLLM.
 - [llm](https://github.com/simonw/llm) - CLI tool for interacting with LLMs. Plugins for local models. From the creator of Datasette.
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Terminal coding assistant running open-weight models on your machine via a llama.cpp fork. No API key needed. Developer preview, so expect breaking changes.
+- [Zaru](https://github.com/100monkeys-ai/zaru-cli) - Terminal assistant that runs tool calls with your permission; works with Ollama, no API key needed. Pre-alpha, Linux only.
 
 ## Voice & Audio
 
